@@ -1,0 +1,30 @@
+body {
+	background-color: #777;
+}
+
+.top {
+	width: 960px;
+	height: 75px;
+	background-color: #ebebeb;
+	margin: auto;
+	border-color: black;
+	border-radius: 2px;
+}
+
+.nav {
+	width: 960px;
+	height: 75px;
+	background-color: #ebebeb;
+	margin-top: 50px;
+	position: fixed;
+	border-color: black;
+	border-style: bold;
+}
+
+.section {
+	width: 495px;
+	height: 200px;
+	background-color: #ebebeb;
+	margin: auto;
+	margin-top: 100px;
+}
